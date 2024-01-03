@@ -52,7 +52,7 @@ The desire to make your project profitable.
 
 4. Enter your API in `config.php`
    ```php
-  define ( "BUILDPROFIT_API_KEY", "**YOUR_API_KEY_HERE**" );
+   define( "BUILDPROFIT_API_KEY", "**YOUR_API_KEY_HERE**" );
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
