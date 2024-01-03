@@ -72,7 +72,7 @@ Watch this space. As we finish testing our first toolkit we'll be posting some h
   require_once '/path/to/buildprofit-php/init.php';
 
   // Join BuildProfit engineer marketers
-    $buildProfit = new \BuildProfit\BuildProfitToolkit( $existingIdeaOrProject );
+  $buildProfit = new \BuildProfit\BuildProfitToolkit( $existingIdeaOrProject );
 
     // refine your value proposition
   $buildProfit->identifyMarketFit();
@@ -131,7 +131,8 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact / Useful links
 
-@build_profit [https://twitter.com/build_profit]
+[@build_profit](https://twitter.com/build_profit)
+
 Woody Hayday - [@woodyhayday](https://twitter.com/woodyhayday)
 
 Project Link - [https://github.com/buildprofit/engineers-marketing-toolkit](https://github.com/buildprofit/engineers-marketing-toolkit)
