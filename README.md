@@ -30,8 +30,6 @@ Easy, developer-first training and tools to help solopreneur's market software t
 <!-- GETTING STARTED -->
 ## Getting Started
 
-TBC.
-
 ### Prerequisites
 
 The desire to make your project profitable.
@@ -99,10 +97,6 @@ Watch this space. As we finish testing our first toolkit we'll be posting some h
 
 <!-- ROADMAP -->
 ## Roadmap
-
-- [ ] Rock solid Marketing for Engineers course
-- [ ] Software toolkit for marketing by development
-- [ ] TBC
 
 See the [open issues](https://github.com/buildprofit/engineers-marketing-toolkit/issues) for a full list of proposed features (and known issues).
 
